@@ -1,1 +1,1 @@
-最新版：自动识别当前用户主目录，支持卸载、GPU 检测、NVIDIA 驱动安装和 ClamAV 安装。
+请将 install.sh 中的 YOUR_GITHUB_USERNAME 替换为你的 GitHub 用户名。
